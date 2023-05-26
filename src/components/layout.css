@@ -1,0 +1,24 @@
+body, html{
+    background-color: #ADC8FF;
+    height: 100vh;
+    background-position: center;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.btn-cs{
+    background-color:#6690FF;
+}
+
+.btn-cs:hover{
+    background-color: #D6E4FF;
+}
+
+.nv{
+    text-decoration: none;
+}
+
+ul .active{
+    background-color:#6690FF;
+}
